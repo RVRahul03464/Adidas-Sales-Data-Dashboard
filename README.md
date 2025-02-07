@@ -1,2 +1,3 @@
-# Adidas-Sales-Data-Dashboard
-I designed and implemented a comprehensive Excel, Power BI, Tableau project, building multiple dashboards and tables for in-depth data analysis. The project encompassed key stages such as data processing, data cleaning, and data visualization to derive meaningful insights.
+Adidas Sales Data Dashboard - End-to-End Project
+Objective:
+The goal of this project is to analyze Adidas sales data to track key performance metrics such as revenue, profit, and sales trends. The insights derived will help optimize sales strategies by identifying top-performing regions, products, and retailers.
